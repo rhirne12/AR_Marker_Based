@@ -94,7 +94,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &1354430841678984326
 Transform:
   m_ObjectHideFlags: 0
@@ -158,7 +158,7 @@ GameObject:
   - component: {fileID: 1792305661406507290}
   m_Layer: 0
   m_Name: FuseboxMesh
-  m_TagString: Untagged
+  m_TagString: modelObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
